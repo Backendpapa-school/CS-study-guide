@@ -70,3 +70,10 @@ Topic 4: Metalinguistic Abstraction
 - [ ] Variations on a scheme - Lazy evaluation
 - [ ] Variation on a scheme - Non deterministic computing
 - [ ] Logic programming
+
+Topic 5: Computing with Register Machines
+- [ ] Designing register machines
+- [ ] A register machine simulator
+- [ ] Storage allocation and garbage collection
+- [ ] The explicit control evaluator
+- [ ] Compilation
